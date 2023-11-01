@@ -50,7 +50,7 @@ This application is designed to collect feedback from students, similar to the s
 
 ## Acknowledgement
 
-Thanks to [Prime Digital Academy](www.primeacademy.io) and teaching assistant Marc McCarthy, who provided feedback and coaching that made this project possible.
+Thanks to [Prime Digital Academy](www.primeacademy.io) and teaching assistant Marc McCarthy, who provided the feedback and coaching that made this project possible.
 
 ## Support
 
