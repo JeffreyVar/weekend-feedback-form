@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #033076;
+  min-height: 70px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.App-title {
+  font-size: 2em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+h1 {
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+h4 {
+  font-style: italic;
+}
+
+#comment-field {
+  width: 325px;
+}
+
+#button {
+  margin-top: 0px;
+  margin-left: 7%;
+  
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: auto;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+
+tr:nth-child(odd) {
+  background-color: #f8f7f7;
+}
+
+#feedback-column {
+  font-weight: bolder;
+}
+
+#rating-column {
+  text-align: center;
+  width: auto;
+}
+
+#button-column {
+  text-align: center;
+  width: 20%;
+}
+
+#comments {
+  font-style: italic;
+  text-align: center;
+}
