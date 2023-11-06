@@ -17,11 +17,14 @@ This application is designed to collect feedback from students, similar to the s
 7. The `npm run client` command will open up a new browser tab 
 
 ## Wireframes
+
+Entering Feedback
 ![Usage Part 1](/wireframes/part_1.gif)
+
+Edit Feature
 ![Usage Part 2](/wireframes/part_2.gif)
 
 Admin View
-
 ![Usage Part 3](/wireframes/part_3.gif)
 
 ## Usage
