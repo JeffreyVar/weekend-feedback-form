@@ -55,7 +55,7 @@ Admin View
 - React
 - Redux
 - Material UI
-- PostgresSQL
+- PostgreSQL
 
 ## Acknowledgement
 
