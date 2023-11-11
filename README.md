@@ -10,7 +10,7 @@ This application is designed to collect feedback from students, similar to the s
 
 1. Using Postico, create a database called 'prime_feedback'
 2. Follow the queries provided in the data.sql file to create the necessary tables for the application to run
-3. Open an IDE of your choice and run an `npm install`
+3. Open an IDE of your choice and run an `npm install` in the terminal
 4. Run `npm install @mui/material@5 @emotion/react @emotion/styled` 
 5. Run `npm run server` in your terminal
 6. Run `npm run client` in your terminal
